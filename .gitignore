@@ -1,0 +1,8 @@
+.svn
+*.xcuserdatad
+*.xcscmblueprint
+xcuserdata
+.DS_Store
+*.lock
+Pods
+*~
